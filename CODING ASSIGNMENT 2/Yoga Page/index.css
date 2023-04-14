@@ -1,0 +1,80 @@
+.home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height: 110vh;
+    padding: 10px;
+    background-color: #ffedcb;
+}
+
+.home-h1 {
+    color: #132d84;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    margin: 15px;
+    text-align: center;
+}
+
+.home-image {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.home-p {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.button {
+    color: #fad693;
+    background-color: #132d84;
+    border-radius: 5px;
+}
+
+.yoga-image-without-headphone {
+    margin-top: 10px;
+    margin-left: 105px;
+    width: 250px;
+    height: 160px;
+}
+
+.yoga-bg-container {
+    padding: 10px;
+    background-color: #ffedcb;
+}
+
+.yoga-asanas-bg-container {
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffe2ab;
+}
+
+.yoga-asanas-title {
+    font-size: 25px;
+    font-family: "Roboto";
+    text-align: center;
+    color: #132d84;
+}
+
+.yoga-asanas-pose-set {
+    width: 100px;
+    height: 100px;
+}
+
+.yoga-asana-heading {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #253263;
+}
+
+.yoga-asana-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.yoga-asana-spacing-between-image-content {
+    margin: 10px;
+}
